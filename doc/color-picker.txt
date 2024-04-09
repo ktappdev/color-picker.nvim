@@ -54,7 +54,7 @@ press `k` to move on to the next slider. The slider values will
 update as you type out the numbers.
 
 Converting Colors (RGB/HEX/HSL)
-- When your cursor is on a corlor, use `:PickColor` to open up 
+- When your cursor is on a color, use `:PickColor` to open up 
 the picker, then press `o` to change the output type to `RGB/HEX/HSL`.
 Press `Enter` and the color under your cursor will be converted.
 
